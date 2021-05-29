@@ -25,8 +25,8 @@ ping.
 
 * Capacitor C5.  A LPG is a combination of a low pass filter (LPF) and a voltage
 controlled amplifier (VCA).  This capacitor controls the cut off frequency of
-the LPF.  The lower the capacitance, the "darker" the sound.  Experiment with
-values between 1nF to 47nF.
+the LPF.  The greater the capacitance, the "darker" the sound.  Experiment with
+values between 1nF to 100nF.
 
 * Resistor R10.  This controls the gain of the inverting op-amp U1B.  Increase
 R10 to increase the gain.  In combination with potentiometer RV2, this can
