@@ -27,7 +27,7 @@ or modifying sound or modifying the circuit that is producing the sound.
 
   Although I wrote above that the two types of signal are distinct, this is not
   entirely true.  An audio signal can be used to control another circuit, and a
-  control signal can be listening to.  If the control signal approaches 30Hz, it
+  control signal can be listened to.  If the control signal approaches 30Hz, it
   will be perceived by most humans, as long as it is cyclic.  At the end of the
   day, voltages are voltages.  To excite a loudspeaker or headphone, the signal
   has to be cyclic (also known as AC coupled).  Many control voltages are not
@@ -43,7 +43,7 @@ power rail.
   The circuits in this repository use only a *single power supply*, with a +12V
   rail and a 0V rail.  This makes it easy and cheap to build power supplies for
   these circuits, they consist of a 15V AC-DC converter (wall-wart), available
-  commercially for little money, a linear power regulator, like a 7815, a diode
+  commercially for little money, a linear power regulator, like a 7812, a diode
   (1N4001) and a capacitor.
 
   Many of the circuits create a virtual ground, by dividing the supply voltage
@@ -63,6 +63,16 @@ Finally, most of these circuits have been adapted from, inspired by, or just
 plain stolen from circuits freely available on the World Wide Web.  For each
 circuit I have acknowledged the inspiration, adaptation or theft where
 appropriate and where I have remembered!
+
+A lot of inspiration has come from the Electro-Music forum, specifically the
+[Lunetta sub-forum](https://electro-music.com/forum/forum-160.html)
+
+Other useful resources I have found on the web when designing single sided
+synth circuits are:
+
+* [Single-Supply Operation of Op-Amps](https://www.ti.com/lit/an/sboa059/sboa059.pdf)
+* [Single-Supply Op-Amp Design Techniques](https://www.ti.com/lit/an/sloa030a/sloa030a.pdf)
+* [A Single-Supply Op-Amp Circuit Collection](https://mil.ufl.edu/4924/docs/TI_SingleSupply_OpAmp.pdf)
 
 Each sub-directory contains a schematic, in PDF format, a breadboard layout and
 an LT-Spice model that I generated when developing the circuits.
