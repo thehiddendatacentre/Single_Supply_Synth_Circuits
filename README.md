@@ -3,6 +3,8 @@ Single Supply Synth Circuit Schematics
 This repository contains a number of schematics for synthesizer circuits that
 only use a single sided power supply.
 
+* [Low Pass Gate / Voltage Controlled Amplified](./LPG_VCA/LPG_VCA.md)
+
 Let's define what those terms actually mean:
 
 * **Synthesizer** : the circuits all have something to do with producing sound,

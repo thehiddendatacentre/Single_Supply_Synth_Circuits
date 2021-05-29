@@ -9,8 +9,8 @@ and the direct inspiration for this circuit, is the
 By turning this into an active (requires power), rather than passive (requires
 no power to function), I believe I have improved the response of the Low Pass
 Gate (LPG) to control voltage (CV).  I've incorporated the exponential vactrol
-driving circuit from Scott Stites [Mutant Vactrol Filter]
-(http://www.birthofasynth.com/Scott_Stites/Pages/mutant_main.html).
+driving circuit from Scott Stites
+[Mutant Vactrol Filter](http://www.birthofasynth.com/Scott_Stites/Pages/mutant_main.html).
 
 I've also added a "Trigger" input, as well as the normal CV input.  This allows
 you to "ping" the LPG to create short envelopes and produce the "Buchla Bongo
