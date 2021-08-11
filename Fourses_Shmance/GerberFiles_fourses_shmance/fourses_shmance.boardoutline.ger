@@ -1,0 +1,6 @@
+%FSTAX24Y24*%
+%MOIN*%
+%IN fourses_shmance.boardoutline.ger *%
+%ADD10C,0.0100*%
+D10*X025D02*G01X05D01*Y02D01*X0D01*Y0D01*X025D01*
+M02*
