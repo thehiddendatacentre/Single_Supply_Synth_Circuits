@@ -1,9 +1,11 @@
+![Alt Text](hidden_data_small.png)
 Single Supply Synth Circuit Schematics
 ======================================
 This repository contains a number of schematics for synthesizer circuits that
 only use a single sided power supply.
 
 * [Low Pass Gate / Voltage Controlled Amplified](./LPG_VCA/LPG_VCA.md)
+* [4069 CMOS State Variable Filter / Wasp Filter](./WaspFilter4069/WaspFilter4069.md)
 
 Let's define what those terms actually mean:
 
