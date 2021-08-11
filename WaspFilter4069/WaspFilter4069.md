@@ -1,3 +1,4 @@
+![HDC logo](../hidden_data_small.png)
 4069 CMOS State Variable Filter / Wasp filter
 =============================================
 

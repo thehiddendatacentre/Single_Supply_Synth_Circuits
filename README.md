@@ -1,4 +1,4 @@
-![Alt Text](hidden_data_small.png)
+![HDC logo](hidden_data_small.png)
 Single Supply Synth Circuit Schematics
 ======================================
 This repository contains a number of schematics for synthesizer circuits that

@@ -1,3 +1,4 @@
+![HDC logo](../hidden_data_small.png)
 Low Pass Gate / Voltage Controlled Amplifier
 ============================================
 
