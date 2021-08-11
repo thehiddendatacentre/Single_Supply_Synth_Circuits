@@ -20,7 +20,7 @@ Peter Blasser uses the term "sh'mance" for a kind of control voltage generation 
 * The outputs of the shift register (each 1-bit register) is combined using a resistor summing network (R13-R16).  The magnitude is set by R17.  This network produces a stepped wave, which is buffered by the op-amp and made available at the "Stepped" output
 * The final bit in the shift-register is also available as a gate via a transistor.  It is also connected to an LED for Blinkenlichts.
 
-![fourse shmance](fourses_shmance.png)
+![fourses_shmance](fourses_shmance.png)
 
 I had PCBs made for these!  The Gerber files are in the repository.
 
