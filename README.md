@@ -7,7 +7,7 @@ only use a single sided power supply.
 * [Low Pass Gate / Voltage Controlled Amplified](./LPG_VCA/LPG_VCA.md)
 * [4069 CMOS State Variable Filter / Wasp Filter](./WaspFilter4069/WaspFilter4069.md)
 * [Simple Sh'mance for Fourses Tarp](./Fourses_Shmance/fourses_shmance.md)
-* [Dust and Noise](./DustNoise/DustNoise.png)
+* [Dust and Noise](./DustNoise/DustNoise.md)
 
 Let's define what those terms actually mean:
 
