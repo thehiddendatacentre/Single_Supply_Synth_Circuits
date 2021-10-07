@@ -14,5 +14,4 @@ to ground ensures that the VCA can fully shut off when no CV is provided.  This
 resistor could be replaced by a 25K or 50K trimmer to precisely tune the shut off
 of the LPG / VCA.
 
-![LPG Circuit](./LPG_VCA.png)
 ![LPG ENV Circuit](./LPG_VCA_ENV.png)
