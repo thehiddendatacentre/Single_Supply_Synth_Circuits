@@ -24,6 +24,9 @@ Peter Blasser uses the term "sh'mance" for a kind of control voltage generation 
 
 I had PCBs made for these!  The Gerber files are in the repository.
 
+**Note** - There is a n error on the PCB.  Pin 15 (Reset B) on the 4520 must be connected to ground.  The easiest way to do this is to connect
+pint 15 to pin 8 with a short piece of wire on the backside of the board.
+
 ![fourses_shmance_pcb](fourses_shmance_pcb.png)
 
 * There are two simple sh'mances on each PCB.  The CD4520 and CD4015 are both dual chips, so it seemed rude not to.
